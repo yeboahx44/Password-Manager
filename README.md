@@ -10,7 +10,7 @@ This is a simple and secure password manager built with Python and Tkinter. It a
 - **User Interface**: Simple, easy-to-use Tkinter interface.
 
 ## Tip
-1. In line 108 of the main code(main.py), you can change the dummy email(yeboah@example.com) to you
+1. In line 108 of the main code(main.py), you can change the dummy email(yeboah@example.com) to your
 primary or frequently used email so you cut the time for typing your email each time you want to save a password.
 
 2. Dont forget to download the logo.
